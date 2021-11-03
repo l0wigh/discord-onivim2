@@ -1,3 +1,7 @@
+# Trying to integrate it to onivim with custom icons + name
+
+
+## original readme
 # Discord Presence
 
 > Update your discord status with a rich presence.
